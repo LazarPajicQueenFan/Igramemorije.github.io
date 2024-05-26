@@ -1,0 +1,14 @@
+input {
+    width: 500px;
+
+}
+
+#main {
+    background-color: lemonchiffon;
+    transition: 2s;
+}
+
+#vic, #uspeh, #broj, #brojP, #naslov {
+    transition: 1s;
+}
+
